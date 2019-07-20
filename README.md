@@ -116,7 +116,7 @@ Here are the ones I used.
 |Speed limit (50km/h)| Speed limit (30km/h) | No |
 |Speed limit (30km/h)| Speed limit (30km/h) | Yes |
 
-Accuracy is 77.77777777777779%
+Accuracy is 77.77777777777779%. This accuracy is lower than that of the test or validation tests. Perhaps new ways to pr-process the data would help. Additional training data could also be useful.
 
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
