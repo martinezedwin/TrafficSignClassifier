@@ -25,7 +25,7 @@ The following are bargraphs of the number of times(y-axis) each label (x-axis) a
 
 ![Label Instances](./Label%20instances%20Training%20Data.png)
 
-![Label Instances](./Label%20instances%20data.png)
+![Label Instances](./Label%20instances%20Validation%20Data.png)
 
 Design and Test a Model Architecture
 ---
