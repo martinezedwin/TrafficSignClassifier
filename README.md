@@ -23,7 +23,7 @@ The following are bargraphs of the number of times(y-axis) each label (x-axis) a
 
 ![Label Instances](./Label_instances_Test_Data.png)
 
-![Label Instances](./Label%20instances%20training%20data.png)
+![Label Instances](./Label%20instances%20Training%20Data.png)
 
 ![Label Instances](./Label%20instances%20data.png)
 
