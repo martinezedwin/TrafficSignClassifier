@@ -34,9 +34,11 @@ Design and Test a Model Architecture
 My preprocess consisted of first converting each image from color to grayscale. Then each image was also normalized.
 
 Here is an image before process
+
 ![Before Process](./Before_process.jpg)
 
 and after
+
 ![After Process](./After_process.jpg)
 
 
