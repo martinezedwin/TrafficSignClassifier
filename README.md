@@ -21,7 +21,7 @@ The number of unique classes/labels in the data set is 43
 
 The following are bargraphs of the number of times(y-axis) each label (x-axis) appears in each dataset (training, testing, validation).
 
-![Label Instances](./Label_instances_test_Data.png)
+![Label Instances](./Label_instances_Test_Data.png)
 
 ![Label Instances](./Label%20instances%20training%20data.png)
 
