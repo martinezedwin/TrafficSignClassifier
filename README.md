@@ -1,5 +1,17 @@
 ## Traffic Sign Recognition
 
+Set-up
+---
+There are several ways to run this project. (Locally w/Anaconda, Docker)
+
+### Locally w/Anaconda
+1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
+2. Clone this repository: `git clone https://github.com/martinezedwin/TrafficSignClassifier.git`
+3. Go into the project: `cd TrafficSignClassifier`
+4. Create the conda environment: `conda env create -f environment.yml`
+6. Activate the environment: `conda activate TrafficSignClassifier`
+
+
 
 Data Set Summary and Exploration
 ---
@@ -68,7 +80,7 @@ The final model architecture was very similar to the LeNet-5 architecture. It lo
 #### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
 
 
-The training took part in cells 17 - 21. I chose 50 epochs of the model with batch size of 128. 
+The training took part in cells 17 - 21. I chose 50 epochs of the model with batch size of 128.
 
 The learning rate was 0.0009.
 

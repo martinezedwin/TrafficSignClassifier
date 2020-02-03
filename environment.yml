@@ -1,0 +1,16 @@
+name: TrafficSignClassifier
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
+  - jupyter_client
+  - jupyter_console
+  - jupyter_core
+  - pip:
+      -tensorflow==1.3
