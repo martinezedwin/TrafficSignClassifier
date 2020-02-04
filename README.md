@@ -48,6 +48,12 @@ and after
 
 ![After Process](./Output_images/After_process.jpg)
 
+| Before |After |
+|-------|-----------|
+|![Before Process](./Output_images/Before_process.jpg)| ![After Process](./Output_images/After_process.jpg)|
+
+
+
 
 #### Final Model Architecture
 
