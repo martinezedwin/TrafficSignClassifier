@@ -42,11 +42,11 @@ My pre-process consisted of first converting each image from color to grayscale.
 
 Here is an image before process
 
-![Before Process](./Before_process.jpg)
+![Before Process](./Output_images/Before_process.jpg)
 
 and after
 
-![After Process](./After_process.jpg)
+![After Process](./Output_images/After_process.jpg)
 
 
 #### Final Model Architecture
@@ -90,7 +90,7 @@ test set accuracy of 99.4%
 Test a Model on New Images
 ---
 Here are the ones I used.
-![German TS](./German_Traffic_Signs.png)
+![German TS](./Output_images/German_Traffic_Signs.png)
 
 
 #### Results
